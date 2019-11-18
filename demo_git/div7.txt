@@ -1,1 +1,4 @@
 Pour voir si un nombre est divisible par 7, il faut voir si la somme des chiffres differents de l'unité additionnée au quintuple de l'unité est divisible par 7.
+
+Exemple avec 462 :
+ 2*5=10, 10+46=56 et 56 est un multiple de 7 d'où 7 divise 460.
