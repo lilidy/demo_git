@@ -1,4 +1,7 @@
 Pour savoir si un nombre est divisible par 3, il faut voir si la somme des chiffres qui composent ce nombre est divisible par 3.
 
 Un exemple précis ; 123 
- 1+2+3=6 et 6 est un multiple de 3 alors 3 divise 123. 
+ 1+2+3=6 et 6 est un multiple de 3 alors 3 divise 123.
+
+
+Source ==> Cours de maths en 5ème College ... Bac MATHS PHYSIQUE au Senegal
