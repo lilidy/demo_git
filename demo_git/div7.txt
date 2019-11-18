@@ -2,3 +2,6 @@ Pour voir si un nombre est divisible par 7, il faut voir si la somme des chiffre
 
 Exemple avec 462 :
  2*5=10, 10+46=56 et 56 est un multiple de 7 d'où 7 divise 460.
+
+
+ Source ==> Tout recemment sur la chaine d'un youtubeur français et découvert par un jeune nigerian .... https://youtu.be/VnUYtx_D_J4
