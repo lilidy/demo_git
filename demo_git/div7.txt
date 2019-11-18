@@ -1,0 +1,1 @@
+Pour voir si un nombre est divisible par 7, il faut voir si la somme des chiffres differents de l'unité additionnée au quintuple de l'unité est divisible par 7.
